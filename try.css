@@ -1,0 +1,13 @@
+body{
+    font-family:'Raleway', sans-serif;
+}
+
+/* using google fonts */
+div.second>p.thisonly{
+        font-family: fantasy;
+        font-weight: bold;
+        font-style: normal;
+}
+div.second>h3{
+    color:#8a8a8a;
+}
